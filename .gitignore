@@ -9,3 +9,9 @@ logs/
 *.pyc
 
 .DS_Store
+
+# Captures d'écran
+*.png
+
+# Fichier de test local
+test_db.py
