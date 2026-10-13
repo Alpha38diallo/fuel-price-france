@@ -13,6 +13,7 @@ This project is an ETL pipeline developed in Python to collect, transform and lo
 - Docker
 - Git
 
+<<<<<<< HEAD
 ## Run
 
 ```bash
@@ -27,3 +28,14 @@ Results
 Author
 
 Alpha Diallo
+=======
+## Results
+
+- 9814 records loaded into PostgreSQL
+- Data quality checks completed
+- SQL analytics performed successfully
+
+## Author
+
+Alpha Diallo
+>>>>>>> 82649e1 (docs: fix README)
