@@ -49,7 +49,7 @@ Projet Data Engineering et Data Analytics permettant d'analyser les prix des car
 ### Cloner le dépôt
 
 ```bash
-git clone https://github.com/TON-USERNAME/fuel-price-france.git
+git clone https://github.com/Alpha38diallo/fuel-price-france.git
 cd fuel-price-france
 ```
 
@@ -78,7 +78,11 @@ DB_PORT=5432
 DB_NAME=fuel_db
 ```
 
+<<<<<<< HEAD
 ### Exécuter le pipeline
 
 ```bash
 python3 
+=======
+### Exécuter le pipeline
+>>>>>>> b729676 (Improve README)
