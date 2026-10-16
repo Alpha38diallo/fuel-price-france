@@ -38,12 +38,15 @@ Projet Data Engineering et Data Analytics permettant d'analyser les prix des car
 
 ### Vue générale du dashboard
 
-![Dashboard](screenshots/dashboard-overview.png)
+![Vue générale](Screenshots/Capture%20d’écran%202026-10-16%20à%2001.10.13.png)
+
+### KPI et filtres
+
+![KPI et filtres](Screenshots/Capture%20d’écran%202026-10-16%20à%2001.11.02.png)
 
 ### Analyse des villes
 
-![Analyse](screenshots/dashboard-analysis.png)
-
+![Analyse des villes](Screenshots/Capture%20d’écran%202026-10-16%20à%2001.11.27.png)
 ## 🛠️ Installation
 
 ### Cloner le dépôt
