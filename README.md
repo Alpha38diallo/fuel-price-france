@@ -34,17 +34,17 @@ Projet Data Engineering et Data Analytics permettant d'analyser les prix des car
 - 13 régions couvertes
 - Analyse interactive des prix des carburants en France
 
-## 📷 Captures d'écran 
+## 📷 Captures d'écran
 
-### Vue générale du dashboard 
+### Vue générale du dashboard
 
-Screenshots/dashboard-overview.png 
+Screenshots/dashboard-overview.png
 
-### KPI et filtres 
+### KPI et filtres
 
-Screenshots/dashboard-kpi.png 
+Screenshots/dashboard-kpi.png
 
-### Analyse des villes 
+### Analyse des villes
 
 Screenshots/dashboard-analysis.png
 
@@ -85,5 +85,34 @@ DB_NAME=fuel_db
 ### Exécuter le pipeline
 
 ```bash
-python3 
-### Exécuter le pipeline
+python3 fuel_pipeline.py
+```
+
+### Lancer le dashboard
+
+```bash
+streamlit run dashboard/app.py
+```
+
+## 📂 Structure du projet
+
+```text
+fuel-price-france/
+├── dashboard/
+│   └── app.py
+├── data/
+├── scripts/
+├── Screenshots/
+│   ├── dashboard-overview.png
+│   ├── dashboard-kpi.png
+│   └── dashboard-analysis.png
+├── requirements.txt
+├── fuel_pipeline.py
+└── README.md
+```
+
+## 👨‍💻 Auteur
+
+**Alpha Diallo**
+
+- GitHub : https://github.com/Alpha38diallo
