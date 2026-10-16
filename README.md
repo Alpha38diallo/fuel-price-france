@@ -34,19 +34,20 @@ Projet Data Engineering et Data Analytics permettant d'analyser les prix des car
 - 13 régions couvertes
 - Analyse interactive des prix des carburants en France
 
-## 📷 Captures d'écran
+## 📷 Captures d'écran 
 
-### Vue générale du dashboard
+### Vue générale du dashboard 
 
-![Vue générale](Screenshots/Capture%20d’écran%202026-10-16%20à%2001.10.13.png)
+Screenshots/dashboard-overview.png 
 
-### KPI et filtres
+### KPI et filtres 
 
-![KPI et filtres](Screenshots/Capture%20d’écran%202026-10-16%20à%2001.11.02.png)
+Screenshots/dashboard-kpi.png 
 
-### Analyse des villes
+### Analyse des villes 
 
-![Analyse des villes](Screenshots/Capture%20d’écran%202026-10-16%20à%2001.11.27.png)
+Screenshots/dashboard-analysis.png
+
 ## 🛠️ Installation
 
 ### Cloner le dépôt
@@ -81,11 +82,8 @@ DB_PORT=5432
 DB_NAME=fuel_db
 ```
 
-<<<<<<< HEAD
 ### Exécuter le pipeline
 
 ```bash
 python3 
-=======
 ### Exécuter le pipeline
->>>>>>> b729676 (Improve README)
