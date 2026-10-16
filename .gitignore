@@ -12,6 +12,7 @@ logs/
 
 # Captures d'écran
 *.png
+!Screenshots/*.png
 
 # Fichier de test local
 test_db.py
